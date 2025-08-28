@@ -1,0 +1,108 @@
+{
+    "Source": "Self-Rating Depression Scale (SDS)",
+    "Response option": "A Little Of The Time;Some Of The Time;Good Part Of The Time;Most Of The Time",
+    "Scoring rule": "SDS assesses symptom frequency on a 4-point scale:A Little Of The Time,Some Of The Time,Good Part Of The Time,Most Of The Time.For forward-scored items, the raw scores are 1, 2, 3, 4, respectively. For reverse-scored items (marked with * in the text), the scores are 4, 3, 2, 1.",
+    "Instructions": "The form is to be completed by the subject independently. Before assessment, ensure the subject fully understands the filling method and the meaning of each question, then conduct a self-assessment free from external influence. Prior to assessment, the staff should present the SDS scale and explain: 'Below are 20 statements. Read each carefully, understand its meaning, then mark one '√' in the appropriate box based on your actual situation in the past week. Each statement has 4 boxes representing: None or a little of the time, Some of the time, A good part of the time, Most or all of the time.' If the subject has limited literacy, staff may read the items aloud one by one, allowing independent responses. The assessment can typically be completed within 10 minutes. Notes: 1. Emphasize the time frame is the past week. 2. Upon completion, staff should review responses to ensure no items are missed or double-marked. 3. For treatment evaluation, conduct assessments pre-treatment and post-treatment. 4. Ensure understanding of reverse-scored items (10 in SDS); misinterpretation affects results. To avoid errors, modify reverse items into forward-scored ones, e.g., (2) 'I feel worst in the morning,' (5) 'I eat less than usual.'",
+    "Item": [
+        {
+            "No.": "1",
+            "MeasurementItem": "I feel down hearted and blue",
+            "MeasurementConcepts": "Depression"
+        },
+        {
+            "No.": "2",
+            "MeasurementItem": "Morning is when I feel the best",
+            "MeasurementConcepts": "Diurnal mood variation"
+        },
+        {
+            "No.": "3",
+            "MeasurementItem": "I have crying spells or feel like it",
+            "MeasurementConcepts": "Easy tearfulness"
+        },
+        {
+            "No.": "4",
+            "MeasurementItem": "I have trouble sleeping at night",
+            "MeasurementConcepts": "Sleep disturbance"
+        },
+        {
+            "No.": "5",
+            "MeasurementItem": "I eat as much as I used to",
+            "MeasurementConcepts": "Decreased Appetite"
+        },
+        {
+            "No.": "6",
+            "MeasurementItem": "I still enjoy sex",
+            "MeasurementConcepts": "Diminished libido"
+        },
+        {
+            "No.": "7",
+            "MeasurementItem": "I notice that I am losing weight",
+            "MeasurementConcepts": "Weight loss"
+        },
+        {
+            "No.": "8",
+            "MeasurementItem": "I have trouble with constipation",
+            "MeasurementConcepts": "Constipation"
+        },
+        {
+            "No.": "9",
+            "MeasurementItem": "My heart beats faster than usual",
+            "MeasurementConcepts": "Palpitations"
+        },
+        {
+            "No.": "10",
+            "MeasurementItem": "I get tired for no reason",
+            "MeasurementConcepts": "Fatigability"
+        },
+        {
+            "No.": "11",
+            "MeasurementItem": "My mind is as clear as it used to be",
+            "MeasurementConcepts": "Thought retardation"
+        },
+        {
+            "No.": "12",
+            "MeasurementItem": "I find it easy to do the things I used to",
+            "MeasurementConcepts": "Diminished capacity"
+        },
+        {
+            "No.": "13",
+            "MeasurementItem": "I am restless and can't keep still",
+            "MeasurementConcepts": "Restlessness"
+        },
+        {
+            "No.": "14",
+            "MeasurementItem": "I feel hopeful about the future",
+            "MeasurementConcepts": "Hopelessness"
+        },
+        {
+            "No.": "15",
+            "MeasurementItem": "I am more irritable than usual",
+            "MeasurementConcepts": "Irritability"
+        },
+        {
+            "No.": "16",
+            "MeasurementItem": "I find it easy to make decisions",
+            "MeasurementConcepts": "Indecisiveness"
+        },
+        {
+            "No.": "17",
+            "MeasurementItem": "I feel that I am useful and needed",
+            "MeasurementConcepts": "Self-Devaluation"
+        },
+        {
+            "No.": "18",
+            "MeasurementItem": "My life is pretty full",
+            "MeasurementConcepts": "Emptiness"
+        },
+        {
+            "No.": "19",
+            "MeasurementItem": "I feel that others would be better off if I were dead",
+            "MeasurementConcepts": "Worthlessness"
+        },
+        {
+            "No.": "20",
+            "MeasurementItem": "I still enjoy the things I used to do",
+            "MeasurementConcepts": "Loss of interest"
+        }
+    ]
+}
