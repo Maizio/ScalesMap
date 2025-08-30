@@ -6,102 +6,102 @@
     "Item": [
         {
             "No.": "1",
-            "MeasurementItem": "I feel down hearted and blue",
+            "Item": "I feel down hearted and blue",
             "MeasurementConcepts": "Depression"
         },
         {
             "No.": "2",
-            "MeasurementItem": "Morning is when I feel the best",
+            "Item": "Morning is when I feel the best",
             "MeasurementConcepts": "Diurnal mood variation"
         },
         {
             "No.": "3",
-            "MeasurementItem": "I have crying spells or feel like it",
+            "Item": "I have crying spells or feel like it",
             "MeasurementConcepts": "Easy tearfulness"
         },
         {
             "No.": "4",
-            "MeasurementItem": "I have trouble sleeping at night",
+            "Item": "I have trouble sleeping at night",
             "MeasurementConcepts": "Sleep disturbance"
         },
         {
             "No.": "5",
-            "MeasurementItem": "I eat as much as I used to",
+            "Item": "I eat as much as I used to",
             "MeasurementConcepts": "Decreased Appetite"
         },
         {
             "No.": "6",
-            "MeasurementItem": "I still enjoy sex",
+            "Item": "I still enjoy sex",
             "MeasurementConcepts": "Diminished libido"
         },
         {
             "No.": "7",
-            "MeasurementItem": "I notice that I am losing weight",
+            "Item": "I notice that I am losing weight",
             "MeasurementConcepts": "Weight loss"
         },
         {
             "No.": "8",
-            "MeasurementItem": "I have trouble with constipation",
+            "Item": "I have trouble with constipation",
             "MeasurementConcepts": "Constipation"
         },
         {
             "No.": "9",
-            "MeasurementItem": "My heart beats faster than usual",
+            "Item": "My heart beats faster than usual",
             "MeasurementConcepts": "Palpitations"
         },
         {
             "No.": "10",
-            "MeasurementItem": "I get tired for no reason",
+            "Item": "I get tired for no reason",
             "MeasurementConcepts": "Fatigability"
         },
         {
             "No.": "11",
-            "MeasurementItem": "My mind is as clear as it used to be",
+            "Item": "My mind is as clear as it used to be",
             "MeasurementConcepts": "Thought retardation"
         },
         {
             "No.": "12",
-            "MeasurementItem": "I find it easy to do the things I used to",
+            "Item": "I find it easy to do the things I used to",
             "MeasurementConcepts": "Diminished capacity"
         },
         {
             "No.": "13",
-            "MeasurementItem": "I am restless and can't keep still",
+            "Item": "I am restless and can't keep still",
             "MeasurementConcepts": "Restlessness"
         },
         {
             "No.": "14",
-            "MeasurementItem": "I feel hopeful about the future",
+            "Item": "I feel hopeful about the future",
             "MeasurementConcepts": "Hopelessness"
         },
         {
             "No.": "15",
-            "MeasurementItem": "I am more irritable than usual",
+            "Item": "I am more irritable than usual",
             "MeasurementConcepts": "Irritability"
         },
         {
             "No.": "16",
-            "MeasurementItem": "I find it easy to make decisions",
+            "Item": "I find it easy to make decisions",
             "MeasurementConcepts": "Indecisiveness"
         },
         {
             "No.": "17",
-            "MeasurementItem": "I feel that I am useful and needed",
+            "Item": "I feel that I am useful and needed",
             "MeasurementConcepts": "Self-Devaluation"
         },
         {
             "No.": "18",
-            "MeasurementItem": "My life is pretty full",
+            "Item": "My life is pretty full",
             "MeasurementConcepts": "Emptiness"
         },
         {
             "No.": "19",
-            "MeasurementItem": "I feel that others would be better off if I were dead",
+            "Item": "I feel that others would be better off if I were dead",
             "MeasurementConcepts": "Worthlessness"
         },
         {
             "No.": "20",
-            "MeasurementItem": "I still enjoy the things I used to do",
+            "Item": "I still enjoy the things I used to do",
             "MeasurementConcepts": "Loss of interest"
         }
     ]
